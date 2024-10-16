@@ -1,6 +1,6 @@
-package club.revived.blade.event;
+package dev.yyuh.blade.event;
 
-import club.revived.blade.bot.Bot;
+import dev.yyuh.blade.bot.Bot;
 
 public class BotLifecycleEvents {
     public static final Event<BotDestroy> BOT_DESTROY = new Event<>(BotDestroy.class, callbacks -> bot -> {

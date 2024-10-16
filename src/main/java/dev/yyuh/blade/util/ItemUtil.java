@@ -1,4 +1,4 @@
-package club.revived.blade.util;
+package dev.yyuh.blade.util;
 
 import net.minecraft.core.Holder;
 import net.minecraft.core.Registry;

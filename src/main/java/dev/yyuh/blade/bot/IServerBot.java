@@ -1,4 +1,4 @@
-package club.revived.blade.bot;
+package dev.yyuh.blade.bot;
 
 import com.mojang.authlib.GameProfile;
 import com.mojang.authlib.properties.Property;

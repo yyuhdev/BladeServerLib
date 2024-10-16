@@ -1,6 +1,6 @@
-package club.revived.blade.util;
+package dev.yyuh.blade.util;
 
-import club.revived.blade.FakePlayer;
+import dev.yyuh.blade.FakePlayer;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.core.Vec3i;

@@ -1,4 +1,4 @@
-package club.revived.blade.inventory;
+package dev.yyuh.blade.inventory;
 
 import java.util.function.Predicate;
 

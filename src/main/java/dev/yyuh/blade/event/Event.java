@@ -1,6 +1,6 @@
-package club.revived.blade.event;
+package dev.yyuh.blade.event;
 
-import club.revived.blade.bot.Bot;
+import dev.yyuh.blade.bot.Bot;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

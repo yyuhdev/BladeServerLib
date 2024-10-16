@@ -1,9 +1,9 @@
-package club.revived.blade.platform;
+package dev.yyuh.blade.platform;
 
-import club.revived.blade.FakeConnection;
-import club.revived.blade.FakePlayer;
-import club.revived.blade.bot.Bot;
-import club.revived.blade.util.ClientSimulator;
+import dev.yyuh.blade.FakeConnection;
+import dev.yyuh.blade.FakePlayer;
+import dev.yyuh.blade.bot.Bot;
+import dev.yyuh.blade.util.ClientSimulator;
 import net.minecraft.network.Connection;
 import net.minecraft.network.protocol.game.ClientboundPlayerInfoUpdatePacket;
 import net.minecraft.server.level.ServerPlayer;

@@ -1,8 +1,8 @@
-package club.revived.blade.event;
+package dev.yyuh.blade.event;
 
 
-import club.revived.blade.bot.Bot;
-import club.revived.blade.inventory.Slot;
+import dev.yyuh.blade.bot.Bot;
+import dev.yyuh.blade.inventory.Slot;
 
 public class InventoryEvents {
     public static final Event<MoveItem> MOVE_ITEM = new Event<>(MoveItem.class, callbacks -> (bot, from, to) -> {

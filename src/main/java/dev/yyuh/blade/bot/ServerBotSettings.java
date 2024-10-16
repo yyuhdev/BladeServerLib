@@ -1,6 +1,6 @@
-package club.revived.blade.bot;
+package dev.yyuh.blade.bot;
 
-import club.revived.blade.util.ItemUtil;
+import dev.yyuh.blade.util.ItemUtil;
 import net.minecraft.core.Holder;
 import net.minecraft.core.component.DataComponents;
 import net.minecraft.world.effect.MobEffect;

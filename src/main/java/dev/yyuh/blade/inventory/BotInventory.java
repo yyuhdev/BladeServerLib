@@ -1,7 +1,7 @@
-package club.revived.blade.inventory;
+package dev.yyuh.blade.inventory;
 
-import club.revived.blade.bot.Bot;
-import club.revived.blade.event.InventoryEvents;
+import dev.yyuh.blade.bot.Bot;
+import dev.yyuh.blade.event.InventoryEvents;
 import com.google.common.collect.ImmutableList;
 import net.minecraft.core.NonNullList;
 import net.minecraft.core.component.DataComponents;

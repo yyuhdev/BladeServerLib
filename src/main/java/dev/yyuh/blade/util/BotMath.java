@@ -1,4 +1,4 @@
-package club.revived.blade.util;
+package dev.yyuh.blade.util;
 
 import net.minecraft.util.Mth;
 import net.minecraft.world.phys.AABB;

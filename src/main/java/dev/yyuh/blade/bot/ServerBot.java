@@ -1,8 +1,8 @@
-package club.revived.blade.bot;
+package dev.yyuh.blade.bot;
 
-import club.revived.blade.platform.Platform;
-import club.revived.blade.util.BotMath;
-import club.revived.blade.util.ItemUtil;
+import dev.yyuh.blade.platform.Platform;
+import dev.yyuh.blade.util.BotMath;
+import dev.yyuh.blade.util.ItemUtil;
 import net.minecraft.commands.arguments.EntityAnchorArgument;
 import net.minecraft.core.Holder;
 import net.minecraft.core.component.DataComponents;

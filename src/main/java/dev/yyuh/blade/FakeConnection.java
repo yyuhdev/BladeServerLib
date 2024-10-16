@@ -1,4 +1,4 @@
-package club.revived.blade;
+package dev.yyuh.blade;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.embedded.EmbeddedChannel;

@@ -1,10 +1,10 @@
-package club.revived.blade.bot;
+package dev.yyuh.blade.bot;
 
-import club.revived.blade.FakePlayer;
-import club.revived.blade.event.BotLifecycleEvents;
-import club.revived.blade.inventory.BotInventory;
-import club.revived.blade.platform.Platform;
-import club.revived.blade.util.ClientSimulator;
+import dev.yyuh.blade.FakePlayer;
+import dev.yyuh.blade.event.BotLifecycleEvents;
+import dev.yyuh.blade.inventory.BotInventory;
+import dev.yyuh.blade.platform.Platform;
+import dev.yyuh.blade.util.ClientSimulator;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.player.Player;
 import org.slf4j.Logger;

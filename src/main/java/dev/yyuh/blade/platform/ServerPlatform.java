@@ -1,6 +1,6 @@
-package club.revived.blade.platform;
+package dev.yyuh.blade.platform;
 
-import club.revived.blade.FakePlayer;
+import dev.yyuh.blade.FakePlayer;
 import net.minecraft.network.protocol.game.ClientboundPlayerInfoUpdatePacket;
 
 import java.util.EnumSet;

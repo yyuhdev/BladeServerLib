@@ -1,7 +1,7 @@
-package club.revived.blade;
+package dev.yyuh.blade;
 
-import club.revived.blade.platform.ServerPlatform;
 import com.mojang.authlib.GameProfile;
+import dev.yyuh.blade.platform.ServerPlatform;
 import net.minecraft.core.BlockPos;
 import net.minecraft.network.protocol.game.ClientboundPlayerInfoUpdatePacket;
 import net.minecraft.network.protocol.game.ClientboundPlayerInfoUpdatePacket.Action;
